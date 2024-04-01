@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Data Scientist",
+        "description": "I am focused on creating projects based on data analysis and modeling for companies that post their needs on Upwork.com.",
+        "location": "Remote",
+        "date": "Present",
+        "icon": "icons/1.svg"
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Development of a user interface with Streamlit to visualize the analysis of the electric, hybrid, and fuel vehicle market, as well as predictive modeling of fuel prices since 2002. Additionally, it involves the development of a database of vehicles and locations of both electric chargers and gas stations in Spain, along with a route cost calculator associated with the time series model of fuel prices so that users can compare and decide which vehicle best suits their daily needs.",
+        "location": "Remote",
+        "date": "Jan 2024 - Feb 2024",
+        "icon": "icons/2.svg"
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Analysis of the hospitality market in Madrid and implementation of a clustering model that categorizes customers based on different restaurants, along with a sentiment analysis model to predict the rating of reviews. Includes a database of the market and the reviews.",
+        "location": "Remote",
+        "date": "Nov 2023 - Dic 2023",
+        "icon": "icons/3.svg"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Animal World Research Project. Analysis of migration, reproduction, and taxonomy of animals in the current world for the implementation of solutions in areas of biosphere loss. Includes possible solutions and reasons for current problems in each region of the world.",
+        "location": "Remote",
+        "date": "Oct 2023 - Nov 2023",
+        "icon": "icons/4.svg"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Socioeconomic analysis of the population of Madrid. The evolution of the economic level of citizens in the different districts is studied, as well as the causes and level of unemployment. It includes the reasons associated with differences between classes and possible governmental points of interest where to apply social assistance and improvements.",
+        "location": "Remote",
+        "date": "Sept 2023 - Oct 2023",
+        "icon": "icons/5.svg"
+    }
+]

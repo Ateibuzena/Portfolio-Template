@@ -1,0 +1,31 @@
+@keyframes translate_x_right {
+    0% {
+        transform: translateX(55%);
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100% {
+        transform: translateX(0%);
+    } 
+}
+
+@keyframes translate_x_left {
+    0% {
+        transform: translateX(-55%);
+    }
+    100% {
+        transform: translateX(0%);
+    } 
+}
+
+
+.translate_x_right {
+    animation: translate_x_right 0.5s ease-in-out;
+}
+
+.translate_x_left {
+    animation: translate_x_left 0.5s ease-in-out;
+}
+

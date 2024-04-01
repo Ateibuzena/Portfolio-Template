@@ -1,0 +1,92 @@
+[
+    {
+        "name": "AWS",
+        "icon": "icons/aws.svg",
+        "description": "Cloud computing platform for running applications."
+    },
+    {
+        "name": "Azure",
+        "icon": "icons/azure.svg",
+        "description": "Cloud computing platform similar to AWS."
+    },
+    {
+        "name": "C",
+        "icon": "icons/c.svg",
+        "description": "Programming language for developing software."
+    },
+    {
+        "name": "H2o.ai",
+        "icon": "icons/h2oai.svg",
+        "description": "Artificial intelligence platform for building machine learning models."
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "icons/jupyter.svg",
+        "description": "Interactive computing environment for running code and visualizing data."
+    },
+    {
+        "name": "MongoDB",
+        "icon": "icons/mongodb.svg",
+        "description": "NoSQL database for storing and managing data."
+    },
+    {
+        "name": "MySQL",
+        "icon": "icons/mysql.svg",
+        "description": "Relational database for storing and managing data."
+    },
+    {
+        "name": "Numpy",
+        "icon": "icons/numpy.svg",
+        "description": "Python library for scientific computing."
+    },
+    {
+        "name": "Pandas",
+        "icon": "icons/pandas.svg",
+        "description": "Python library for data analysis."
+    },
+    {
+        "name": "PowerBI",
+        "icon": "icons/powerbi.svg",
+        "description": "Business intelligence tool for visualizing and analyzing data."
+    },
+    {
+        "name": "PyCharm",
+        "icon": "icons/pycharm.svg",
+        "description": "Integrated development environment (IDE) for Python development."
+    },
+    {
+        "name": "Python",
+        "icon": "icons/python.svg",
+        "description": "General-purpose programming language popular for data science and web development."
+    },
+    {
+        "name": "scikit-learn",
+        "icon": "icons/scikitlearn.svg",
+        "description": "Python library for machine learning algorithms."
+    },
+    {
+        "name": "SciPy",
+        "icon": "icons/scipy.svg",
+        "description": "Python library for scientific computing and engineering."
+    },
+    {
+        "name": "Statsmodels",
+        "icon": "icons/stadisticalmodel.svg",
+        "description": "Python library for statistical modeling and econometrics."
+    },
+    {
+        "name": "Streamlit",
+        "icon": "icons/streamlit.svg",
+        "description": "Python framework for building data apps and sharing them with others."
+    },
+    {
+        "name": "Unix",
+        "icon": "icons/unix.svg",
+        "description": "Open-source operating system for servers, workstations, and embedded devices."
+    },
+    {
+        "name": "Vscode",
+        "icon": "icons/vscode.svg",
+        "description": "Open-source code editor for developing applications in various programming languages."
+    }
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "EcoMovilidad",
+		"color_1": "#8FBC8F",
+		"color_2": "#333333",
+		"title": "EcoMovilidad",
+		"description": "This website is a data science project focused on the fuel and electricity consumption of vehicles, including electric, hybrid, and combustion vehicles. Our goal is to provide users with an easy-to-use and accurate tool to compare different types of vehicles based on their main characteristics and estimate the costs associated with their consumption per trip so that users can decide which vehicle they need. We understand that transportation expenses can vary significantly depending on the vehicle model, the type of fuel used, or whether it is an electric vehicle. Through different data sources, we have built our own record of vehicles and their characteristics, as well as the evolution of fuel prices and the different electric charging points in Spain.",
+		"image": "img/ecomovilidad.png",
+		"link": "https://ecomovilidad.streamlit.app/"
+	},
+	{
+		"name": "GastronomIA",
+		"color_1": "#FF66FF",
+		"color_2": "#333333",
+		"title": "GastronomIA",
+		"description": "Restaurant Recommendation System, designed to enhance user experience in the vibrant city of Madrid. Additionally, an advanced Clustering Model was developed to provide restaurants with insights into their audience and preferences. Complementing this, we implemented a Prediction Model that facilitates local establishments in quickly identifying the quality of reviews, saving them the time of reviewing each one individually. Enhanced User Experience; Operational Efficiency for Local Establishments; Optimization of Offers and Market Focus; Increased Visibility and Recognition; Reduced Evaluation Time.",
+		"image": "img/GastronomIA.png",
+		"link": "https://docs.google.com/presentation/d/1Meyf7kFybX1uLtiw3Kb0cFU_dWLWny_NCVfvItZ1fWs/edit?usp=sharing"
+	},
+	{
+		"name": "Animalia",
+		"color_1": "#87CEEB",
+		"color_2": "#333333",
+		"title": "Animalia",
+		"description": "With the use of advanced data collection techniques, such as API and webscraping, we conducted a scientific data analysis that has allowed us to discover intriguing patterns and gain valuable insights into animal life. Our project not only stops at research but culminates in concrete proposals for societal improvement, addressing crucial issues such as the environment, biodiversity, and providing essential knowledge for future research in this area.",
+		"image": "img/Aminalia.png",
+		"link": "https://docs.google.com/presentation/d/1n8d04FgC4kAl4cxYD4N8SYpIfxb_B4C3ySFJrOMKtH8/edit?usp=sharing"
+	},
+	{
+		"name": "EDA",
+		"color_1": "#FFA07A",
+		"color_2": "#333333",
+		"title": "Socioeconomic analysis of the population of Madrid",
+		"description": "Socioeconomic analysis of the population of Madrid. The evolution of the economic level of citizens in the different districts is studied, as well as the causes and level of unemployment. It includes the reasons associated with differences between classes and possible governmental points of interest where to apply social assistance and improvements.",
+		"image": "img/EDA.png",
+		"link": "https://docs.google.com/presentation/d/1J4m2UWvUwI_Z6eM-7mET-2lxpyx3GD4BqCuA9VhSQ5M/edit?usp=sharing"
+	},
+	{
+		"name": "C",
+		"color_1": "#8A2BE2",
+		"color_2": "#333333",
+		"title": "C Introduction",
+		"description": "Repository to learn the C programming language from scratch, including exercises and projects like 'painting a square with different characteristics through the terminal', 'creating an automatic sudoku', 'translating digits to their written names using dictionaries', and 'finding the largest square that can be drawn on a map with obstacles'.",
+		"image": "img/c.png",
+		"link": "https://github.com/Ateibuzena/42_Malaga_Fundacion_Telefonica"
+	},
+	{
+		"name": "Portfolio",
+		"color_1": "#FFFF66",
+		"color_2": "#333333",
+		"title": "Portfolio Template",
+		"description": "This repository hosts my portfolio, which has been developed using TypeScript, CSS, and the frameworks Astro, Pread, and Tailwind. Here you can explore the projects I have created, along with their features and functionalities implemented using differents technologies.",
+		"image": "img/portfolio.png",
+		"link": "https://docs.google.com/presentation/d/1J4m2UWvUwI_Z6eM-7mET-2lxpyx3GD4BqCuA9VhSQ5M/edit?usp=sharing"
+	},
+	{
+		"name": "Game",
+		"color_1": "#FF6666",
+		"color_2": "#333333",
+		"title": "Recreation of the Tamagotchi game using object-oriented programming.",
+		"description": "When starting the game, you will create your own Tamagotchi with a customized name and difficulty level. You will have the freedom to feed it, put it to sleep, bathe it, play with it, or go shopping. As you progress, you will face increasingly difficult challenges based on the chosen difficulty level. I challenge you to see how many rounds you can keep it alive!",
+		"image": "img/game.png",
+		"link": "https://www.youtube.com/watch?v=NlgybkwlVHk&ab_channel=AneZubietaPe%C3%B1a"
+	}
+]

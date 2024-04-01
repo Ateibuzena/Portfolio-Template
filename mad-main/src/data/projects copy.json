@@ -1,0 +1,47 @@
+[
+	{
+		"name": "EcoMovilidad",
+		"color_1": "#6C91C2",
+		"color_2": "#373F47",
+		"title": "EcoMovilidad",
+		"description": "This website is a data science project focused on the fuel and electricity consumption of vehicles, including electric, hybrid, and combustion vehicles. Our goal is to provide users with an easy-to-use and accurate tool to compare different types of vehicles based on their main characteristics and estimate the costs associated with their consumption per trip so that users can decide which vehicle they need. We understand that transportation expenses can vary significantly depending on the vehicle model, the type of fuel used, or whether it is an electric vehicle. Therefore, we are committed to offering a versatile solution that adapts to various needs and circumstances. Through different data sources, we have built our own record of vehicles and their characteristics, as well as the evolution in fuel prices and the different electric charging points in Spain.	Start exploring our website and plan your next trip with us.",
+		"image": "img/wof_img.webp",
+		"link": "https://ecomovilidad.streamlit.app/"
+	}/*,
+	{
+		"name": "GastronomIA",
+		"color_1": "#dbfba4",
+		"color_2": "#564d80",
+		"title": "GastronomIA",
+		"description": "Restaurant Recommendation System 🔍, designed to enhance user experience in the vibrant city of Madrid. Additionally, an advanced Clustering Model 🍽️ was developed to provide restaurants with insights into their audience and preferences. Complementing this, we implemented a Prediction Model 🔮 that facilitates quick identification of review quality for local establishments, saving them the time of reviewing each one individually. Excited to share these impactful solutions! 🚀✨ 📈 Achievements and Results: - Enhanced User Experience. - Operational Efficiency for Local Establishments. - Optimization of Offers and Market Focus. - Increased Visibility and Recognition. - Reduced Evaluation Time. 💻 Skills and Tools Used: - Integration of SQL databases 🗃️ for storing information. - Application of NLP techniques 📝 and use of libraries like NLTK 📚 (Natural Language Toolkit). - Implementation of algorithms, data manipulation, and model development through Python 🐍. - Libraries such as NumPy 🧮, Pandas 🐼, and Scikit-Learn 🧠 for statistical modeling, visualization, and machine learning. - Git 🔄 for version control and code collaboration. - Development of a web application with Streamlit 🔧. 🛠️ Project Details: - Implementation of a recommendation algorithm that weights different characteristics of Madrid's restaurants based on the importance assigned by a user to those visited previously. - Development of a clustering model that groups restaurants into 3 clusters based on their average selling price, number of visits, recognition earned, and type of cuisine served. - Implementation of a rating prediction model distributed in classes from 1 to 5, capable of analyzing a text comment and assigning it an appropriate rating.	🤝 Acknowledgments: I want to thank my team for their collaboration throughout the project.",
+		"image": "img/byder_img.webp",
+		"link": "https://apps.apple.com/es/app/byder-app/id6472192997?l=en-GB"
+	},
+	{
+		"name": "Animalia",
+		"color_1": "#A9E5BB",
+		"color_2": "#F7B32B",
+		"title": "Animalia",
+		"description": "With the use of advanced data collection techniques, such as API and webscraping, we conducted a scientific data analysis that has allowed us to discover intriguing patterns and gain valuable insights into animal life. Our project not only stops at research but culminates in concrete proposals for societal improvement, addressing crucial issues such as the environment, biodiversity, and providing essential knowledge for future research in this area.",
+		"image": "img/nextmenu_img.webp",
+		"link": "https://github.com/EseToni/NextMenu"
+	},
+	{
+		"name": "EDA",
+		"color_1": "#f52a41",
+		"color_2": "#2D1E2F",
+		"title": "Socioeconomic analysis of the population of Madrid",
+		"description": "Socioeconomic analysis of the population of Madrid. The evolution of the economic level of citizens in the different districts is studied, as well as the causes and level of unemployment. It includes the reasons associated with differences between classes and possible governmental points of interest where to apply social assistance and improvements.",
+		"image": "img/f1stats_img.webp",
+		"link": "https://pilotosformula1.vercel.app/"
+	}*/,
+	{
+		"name": "Port-Temp",
+		"color_1": "#bd93f9",
+		"color_2": "#53a684",
+		"title": "Portfolio template",
+		"description": "Showcase your work elegantly and highlight your skills with a responsive design. Elevate your online presence effortlessly!",
+		"image": "img/portfolio_template_img.webp",
+		"link": "https://portfolio-esetoni.vercel.app/"
+	}
+]
