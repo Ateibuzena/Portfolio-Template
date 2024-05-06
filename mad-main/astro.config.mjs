@@ -12,5 +12,5 @@ export default defineConfig({
 		edgeMiddleware: true,
 	}),
 	site: 'https://ateibuzena.github.io',
-	base: 'Portfolio-Template',
+  	base: 'Portfolio-Template',
 })
