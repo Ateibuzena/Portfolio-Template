@@ -11,6 +11,4 @@ export default defineConfig({
 	adapter: netlify({
 		edgeMiddleware: true,
 	}),
-	site: 'https://ateibuzena.github.io',
-  	base: 'Portfolio-Template',
 })
